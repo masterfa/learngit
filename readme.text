@@ -8,3 +8,8 @@ creating a new branch is quick &simple
 =======
 creating a new branch is fast and easy
 add merge
+<<<<<<< Updated upstream
+=======
+
+modify the file
+>>>>>>> Stashed changes
