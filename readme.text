@@ -1,5 +1,5 @@
 git is a distributed version control system
-git is a free software distributed under the GPL
+Git is a free software distributed under the GPL
 git has a mutable index called stage
 git tracks changes
 creating a new branch
@@ -8,4 +8,3 @@ creating a new branch is quick &simple
 =======
 creating a new branch is fast and easy
 add merge
-
